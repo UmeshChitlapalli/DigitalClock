@@ -75,26 +75,26 @@ function clock()
     switch(day)
     {
             case 0:day="sunday"
-            document.body.style.backgroundImage="url(../js-Media/sun.png)"
+            document.body.style.backgroundImage="url(./sun.png)"
             break;
             case 1:day="Monday"
-            document.body.style.backgroundImage="url(../js-Media/Mon.png)"
+            document.body.style.backgroundImage="url(./Mon.png)"
             break;
             case 2:day="Tuesday"
-            document.body.style.backgroundImage="url(../js-Media/Tues.jpg)"
+            document.body.style.backgroundImage="url(./Tues.jpg)"
             break;
             case 3:day="Wednesday"
-            document.body.style.backgroundImage="url(../js-Media/wed.jpg)"
+            document.body.style.backgroundImage="url(./wed.jpg)"
             break;
             case 4:day="Thursday"
-            document.body.style.backgroundImage="url(../js-Media/thurs.jpg)"
+            document.body.style.backgroundImage="url(./thurs.jpg)"
             break;
             case 5:day="Friday"
-            document.body.style.backgroundImage="url(../js-Media/thurs.jpg)"
-            //document.body.style.backgroundImage="url(../js-Media/Fri.jpg)"
+          
+            document.body.style.backgroundImage="url(./Fri.jpg)"
             break;
             case 6:day="Saturday"
-            document.body.style.backgroundImage="url(../js-Media/sat.jpg)"
+            document.body.style.backgroundImage="url(./sat.jpg)"
             break;
 
     }
