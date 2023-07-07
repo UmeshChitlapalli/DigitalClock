@@ -72,7 +72,7 @@ function clock()
     console.log(mo)
     console.log(mo)
 
-    switch(day)
+    switch(6)
     {
             case 0:day="sunday"
             document.body.style.backgroundImage="url(./sun.png)"
