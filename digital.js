@@ -90,8 +90,7 @@ function clock()
             document.body.style.backgroundImage="url(./thurs.jpg)"
             break;
             case 5:day="Friday"
-           //document.body.style.backgroundImage="url(./Fri.jpg)"
-             document.body.style.backgroundImage="url(./sat.jpg)"
+           document.body.style.backgroundImage="url(./Fri.jpg)"
             break;
             case 6:day="Saturday"
             document.body.style.backgroundImage="url(./sat.jpg)"
